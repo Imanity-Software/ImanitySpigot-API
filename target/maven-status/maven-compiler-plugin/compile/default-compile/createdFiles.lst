@@ -1,0 +1,16 @@
+spg\lgdev\handler\example\ExampleMovementHandler.class
+spg\lgdev\events\type\ArmorType.class
+spg\lgdev\events\ArmorEvent.class
+spg\lgdev\events\ReachEvent.class
+spg\lgdev\iSpigot.class
+spg\lgdev\handler\example\ExampleAIHandler.class
+spg\lgdev\knockback\Knockback.class
+spg\lgdev\events\EntityStackEvent.class
+spg\lgdev\knockback\impl\AbstractKnockback.class
+spg\lgdev\handler\PacketHandler.class
+spg\lgdev\events\ArmorRemoveEvent.class
+spg\lgdev\events\ArmorEquipEvent.class
+spg\lgdev\knockback\KnockbackHandler.class
+spg\lgdev\handler\MovementHandler.class
+spg\lgdev\handler\AIHandler.class
+spg\lgdev\events\PlayerAttackEvent.class

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/config/RestartType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/config/iSpigotConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/config/value/iSpigotConfigValue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/config/world/OrePopulatorRule.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/events/events/PacketCustomPayloadEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/events/events/ReachEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/events/executor/MethodHandleEventExecutor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/events/executor/StaticMethodHandleEventExecutor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/events/executor/asm/ASMEventExecutorGenerator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/events/executor/asm/ClassDefiner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/events/executor/asm/SafeClassDefiner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/thread/worker/ThreadWorkerType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/util/SneakyThrow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/util/SpinLock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/util/Utils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/util/ValueOrder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lgdev/util/ValueUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/bukkit/event/entity/PotionEffectEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/bukkit/event/entity/PotionEffectExpireEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/bukkit/event/entity/PotionEffectRemoveEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/Properties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/Properties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/ArmorEquipEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/ArmorEquipEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/ArmorEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/ArmorEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/ArmorRemoveEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/ArmorRemoveEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/EntityStackEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/EntityStackEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/PacketCustomPayloadEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/PacketCustomPayloadEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/PlayerAttackEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/PlayerAttackEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/ReachEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/ReachEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/type/ArmorType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/events/type/ArmorType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/AIHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/AIHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/MovementHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/MovementHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/PacketHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/PacketHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/example/ExampleAIHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/example/ExampleAIHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/example/ExampleMovementHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/example/ExampleMovementHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/timed/TimedMovementHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/timed/TimedMovementHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/timed/TimedPacketHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/handler/timed/TimedPacketHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/iSpigot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/iSpigotAPI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/iSpigotAPI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/knockback/Knockback.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/knockback/Knockback.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/spg/lgdev/knockback/impl/AbstractKnockback.java" charset="UTF-8" />
+  </component>
+</project>
