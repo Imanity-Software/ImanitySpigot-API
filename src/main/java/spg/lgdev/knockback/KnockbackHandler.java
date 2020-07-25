@@ -1,5 +1,7 @@
 package spg.lgdev.knockback;
 
+import org.bukkit.entity.Player;
+
 public class KnockbackHandler {
     /**
      * Sets the default knockback profile to the one specified
@@ -60,5 +62,22 @@ public class KnockbackHandler {
      * This will reload everything (Including profiles, modules, etc.)
      */
     public void reload() {
+    }
+
+    /**
+     * Applies a knockback profile instance to a player directly
+     * @param player - The target player
+     * @param knockback - The knockback instance to apply for
+     */
+    public void applyKnockbackProfile(Player player, Knockback knockback) {
+    }
+
+    /**
+     * Retrieves a knockback profile instance from a player
+     * @param player - The player to retrieve knockback profile from
+     * @return The player's knockback profile, can be null in some cases
+     */
+    public Knockback getKnockbackProfileFromPlayer(Player player) {
+        return null;
     }
 }
