@@ -8,14 +8,14 @@ import org.bukkit.potion.PotionEffect;
 public class PotionEffectAddEvent extends PotionEffectEvent implements Cancellable {
     private static final HandlerList handlers = new HandlerList();
     private boolean cancelled;
-    protected final PotionEffectAddEvent.EffectCause effectCause;
+    protected final EffectCause effectCause;
 
-    public PotionEffectAddEvent(LivingEntity entity, PotionEffect effect, PotionEffectAddEvent.EffectCause effectCause) {
+    public PotionEffectAddEvent(LivingEntity entity, PotionEffect effect, EffectCause effectCause) {
         super(entity, effect);
         this.effectCause = effectCause;
     }
 
-    public PotionEffectAddEvent.EffectCause getCause() {
+    public EffectCause getCause() {
         return this.effectCause;
     }
 

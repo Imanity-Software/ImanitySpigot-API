@@ -63,4 +63,11 @@ public enum iSpigot {
      */
     public void addAIHandler(AIHandler handler) { }
 
+    /**
+     * Get server tick per second
+     * @return - Tick Per Seconds
+     * @since ImanitySpigot 2.1.3b2-SNAPSGHOT
+     */
+    double[] getTPS() { return new double[3]; };
+
 }
