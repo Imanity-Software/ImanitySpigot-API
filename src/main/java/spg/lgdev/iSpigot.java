@@ -68,6 +68,6 @@ public enum iSpigot {
      * @return - Tick Per Seconds
      * @since ImanitySpigot 2.1.3b2-SNAPSGHOT
      */
-    double[] getTPS() { return new double[3]; };
+    public double[] getTPS() { return new double[3]; };
 
 }
