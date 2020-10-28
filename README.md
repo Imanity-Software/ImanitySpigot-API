@@ -17,7 +17,7 @@ DO NOT SHADE IT INTO YOUR PLUGIN, USE provided AS SCOPE
 <dependency>
 	 <groupId>org.imanity.spigot</groupId>
 	 <artifactId>imanityspigot-api</artifactId>
-	 <version>2.1.3</version>
+	 <version>2.1.3b2</version>
      <scope>provided</scope>
 </dependency>
 ```
